@@ -1,5 +1,5 @@
 # WatchKit-UI-Sample
-WatchKit-UI-Sample is a sample code for WatchKit UI explanation.
+WatchKit-UI-Sample is a sample SwiftUI code for WatchKit UI explanation.
 
 https://zenn.dev/naoya_maeda/articles/0f2de0f33b19a0
 
