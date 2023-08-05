@@ -98,3 +98,11 @@ https://zenn.dev/naoya_maeda/articles/0f2de0f33b19a0
 
 #### Get motion
 <img width="200" alt="Getmotion" src="https://user-images.githubusercontent.com/79180266/212060273-1c33d566-2fd1-4a48-9cba-40d9e3d96f9a.gif">
+
+## Ver.1.0
+|  Ver. | 1.0  |
+|:------|-------:|
+| Xcode | 14.3.1   |
+| Swift | 5.8.1   |
+| iOS  | 15.0 - |
+| watchOS  | 8.0 - |
